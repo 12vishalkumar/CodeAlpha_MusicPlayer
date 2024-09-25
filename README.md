@@ -14,7 +14,7 @@
 
 ## 🚀 Demo
 
-Check out the live demo here 👉: [Music Player Demo](https://your-demo-link.com)
+Check out the live demo here 👉: [Music Player Demo](https://12vishalkumar.github.io/CodeAlpha_MusicPlayer)
 
 ![Music Player Screenshot](./images/Screenshot.jpg)
 
